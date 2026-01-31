@@ -1,0 +1,115 @@
+
+
+body{
+   background-color:#FFD8DF;
+   font-style: bold;
+}
+
+h1{
+    font-size:30px;
+    padding-bottom: 10px;
+}
+
+.container{
+    margin: 100px auto;
+    width: 40%;
+    height: 300px;
+    background-color:#F0FFDF;
+    padding-left: 30px;
+    
+}
+
+.header{
+    padding-top:20px;
+    display: flex;
+    justify-content:center;
+    font-size:30px;
+    font: barlow;
+    
+}
+
+.partofSpeech{
+    margin-left:20px;
+    
+}
+
+
+.input{
+    display:flex;
+    justify-content: center;
+     margin: 50px auto;
+}
+
+.part{
+    font-size:25px;
+    display:flex;
+    justify-content: center;
+    text-transform: uppercase;
+   
+}
+
+#id2{
+    padding-left:20px;
+}
+
+
+
+.meaning{
+    font-size:25px;
+    margin-top: 50px;
+
+}
+
+
+.examples{
+    font-size:25px;
+    margin-top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+.phonetics{
+    font-size:20px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;}
+
+
+#enter{
+    width:400px;
+    margin-right: 10px;
+    height: 25px;
+}
+
+.search{
+    height: 30px;
+    background-color:#FFD8DF;
+}
+
+
+
+
+#book{
+  
+    padding-right:10px;
+}
+
+
+#book{
+    height:50px;
+}
+
+#icon{
+    height: 30px;
+    display: flex;
+}
+
+.display{
+    
+}
+
+
+#id1{
+    margin-top: 10px;
+}
